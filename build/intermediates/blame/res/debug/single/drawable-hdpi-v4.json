@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-hdpi-v4/rahmenschwarz.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-hdpi/rahmenschwarz.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-hdpi-v4/rahmengruen.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-hdpi/rahmengruen.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-hdpi-v4/rahmenrot.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-hdpi/rahmenrot.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-hdpi-v4/rahmenblau.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-hdpi/rahmenblau.xml"
+    }
+]

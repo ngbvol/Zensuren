@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/noteneingabe.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/noteneingabe.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/sitzplanlayout.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/sitzplanlayout.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/notenwahl.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/notenwahl.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/rowlayout.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/rowlayout.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/kurslistenlayout.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/kurslistenlayout.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/aufgabenwahl.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/aufgabenwahl.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/check.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/check.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/kursmappenlayout.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/kursmappenlayout.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/anzeige.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/anzeige.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/save.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/save.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/kursanlegen.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/kursanlegen.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/abhakliste.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/abhakliste.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/kursnotenlistenlayout.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/kursnotenlistenlayout.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/fehlstundeneintraglayout.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/fehlstundeneintraglayout.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/abhaklistenlayout.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/abhaklistenlayout.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/susliste.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/susliste.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/myspinner.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/myspinner.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/kursbucheintrag.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/kursbucheintrag.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/file_view.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/file_view.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/noteneingabeneu.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/noteneingabeneu.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/kursliste.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/kursliste.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/layout/dreizeilig.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/layout/dreizeilig.xml"
+    }
+]

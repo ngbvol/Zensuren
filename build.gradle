@@ -1,0 +1,18 @@
+apply plugin: 'android'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "25" //"19.1.0"
+
+    defaultConfig {
+        minSdkVersion 19
+        targetSdkVersion 22
+    }
+
+    buildTypes {
+        release {
+            // runProguard false
+            // proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}

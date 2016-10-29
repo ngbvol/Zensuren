@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent"
+	android:layout_height="fill_parent" 
+	xmlns:android="http://schemas.android.com/apk/res/android" >
+
+	<TextView android:id="@+id/text" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:text="Zensurenverwaltung"
+		android:textSize="24.5sp" android:layout_gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:textAlignment="center" />
+
+	<Button
+        android:text="Schuljahr: 2013-14"
+		android:id="@+id/button1" android:layout_gravity="center"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_below="@+id/text"
+        android:layout_alignParentLeft="true"
+        android:background="#879aff"
+        android:height="@android:dimen/app_icon_size"></Button>
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@android:id/list"
+        android:choiceMode="singleChoice"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/button1" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Button"
+        android:id="@+id/button101"
+        android:layout_below="@+id/text"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>

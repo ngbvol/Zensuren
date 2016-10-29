@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/menu/kurslistenmenue.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/menu/kurslistenmenue.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/menu/actionzensuren.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/menu/actionzensuren.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/menu/stundenplanmenue.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/menu/stundenplanmenue.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/menu/sitzplanmenue.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/menu/sitzplanmenue.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/menu/aufgabenmenue.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/menu/aufgabenmenue.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/menu/zensurenanzeigenmenue.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/menu/zensurenanzeigenmenue.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/menu/kursmappenmenue.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/menu/kursmappenmenue.xml"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/menu/kursbearbeitenmenu.xml",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/menu/kursbearbeitenmenu.xml"
+    }
+]

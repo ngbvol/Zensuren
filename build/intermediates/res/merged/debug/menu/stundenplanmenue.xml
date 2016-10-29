@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/wochezurueck"
+        android:icon="@drawable/ic_action_back"
+        android:title="eine Woche zurück"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/wochevor"
+        android:icon="@drawable/ic_action_forward"
+        android:title="eine Woche vor"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/datumaendern"
+        android:icon="@drawable/ic_action_shuffle"
+        android:title="Startdatum"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/zeiten"
+        android:title="Stundenzeiten" />
+</menu>

@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/positiv.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/positiv.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_new_event.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_new_event.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_edit.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_edit.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_copy.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_copy.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/klausur.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/klausur.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_view_as_grid.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_view_as_grid.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_add_group.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_add_group.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_paste.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_paste.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_overflow.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_overflow.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_secure.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_secure.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_back.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_back.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_shuffle.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_shuffle.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_important.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_important.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_not_important.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_not_important.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_good.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_good.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/note.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/note.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_bad.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_bad.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_view_as_list.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_view_as_list.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_half_important.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_half_important.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_favorite.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_favorite.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/negativ.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/negativ.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_add_person.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_add_person.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/wichtig.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/wichtig.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_search.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_forward.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_forward.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_event.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-mdpi/ic_action_event.png"
+    }
+]

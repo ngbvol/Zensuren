@@ -1,0 +1,7 @@
+#Sat Oct 29 19:07:14 CEST 2016
+base.0=/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_69b6f5ef9075b2cde23a1bb7b635a82d85d5ca8d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b0c3dd1319a7e0c6ceb44cb03d27adab221b0071/classes.dex
+base.1=/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b0c3dd1319a7e0c6ceb44cb03d27adab221b0071
+file.0=/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_69b6f5ef9075b2cde23a1bb7b635a82d85d5ca8d/classes.dex

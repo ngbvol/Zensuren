@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-ldpi/klausur.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-ldpi/klausur.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-ldpi/positiv.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-ldpi/positiv.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-ldpi/icon.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-ldpi/negativ.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-ldpi/negativ.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-ldpi/wichtig.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-ldpi/wichtig.png"
+    },
+    {
+        "merged": "/home/tim/android-studio2/DB-Projekt/Zensuren/build/intermediates/res/merged/debug/drawable-ldpi/note.png",
+        "source": "/home/tim/android-studio2/DB-Projekt/Zensuren/src/main/res/drawable-ldpi/note.png"
+    }
+]

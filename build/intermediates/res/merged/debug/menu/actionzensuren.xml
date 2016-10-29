@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/astundenplan"
+        android:icon="@drawable/ic_action_paste"
+        android:title="Stundenplan"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/aaddgroup"
+        android:title="Kurs anlegen" />
+    <item android:id="@+id/aaddperson"
+        android:title="Schüler anlegen" />
+    <item android:id="@+id/aexportnoten"
+        android:title="Notenlisten exportieren" />
+    <item android:id="@+id/aexportmappe"
+        android:title="Kursmappen exportieren" />
+    <item android:id="@+id/aexportnotizen"
+        android:title="Notizen exportieren" />
+    <item android:id="@+id/punkteliste"
+        android:title="Notengrenzen" />
+</menu>
