@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/zufall"
+        android:title="Zufallsreihenfolge"/>
+    <item
+        android:id="@+id/hauptnoten"
+        android:title="Hauptnoten zeigen"/>
+    <item
+        android:id="@+id/zeigenoten"
+        android:title="Notennotizen zeigen"
+        android:icon="@drawable/ic_action_search"
+        android:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/aufgaben"
+        android:title="Aufgaben / Abhaklisten"/>
+    <item
+        android:id="@+id/kursmappe2"
+        android:title="Kursmappe ansehen"
+        android:icon="@drawable/ic_action_view_as_list"
+        android:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/sitzplan"
+        android:title="Sitzplan"
+        android:icon="@drawable/ic_action_view_as_grid"
+        android:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/kursmappe"
+        android:title="Eintrag Kursmappe"/>
+    <item
+        android:id="@+id/statistik"
+        android:title="Notenstatistik"/>
+    <item
+        android:id="@+id/export"
+        android:title="Gesamtliste exportieren"/>
+    <item
+        android:id="@+id/allenoten"
+        android:title="neueste Einträge"/>
+</menu>
+

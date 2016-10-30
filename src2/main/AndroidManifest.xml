@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="com.app.Zensuren" android:versionCode="121"
+	android:versionName="1.21">
+	<uses-sdk android:minSdkVersion="11" />
+	<application android:icon="@drawable/zensurenlogo"
+        android:label="Zensuren">
+		<activity android:name=".Zensuren" android:theme="@android:style/Theme.Holo" android:label="Zensuren">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		<activity android:name=".SaveData" android:label="@string/app_name">
+        </activity>
+        <activity android:name=".LegeKursan" android:label="Kurs anlegen">
+        </activity>
+        <activity android:name=".Kursliste" android:theme="@android:style/Theme.Holo" android:label="Kursliste">
+        </activity>
+		<activity android:name=".CheckData" android:label="@string/app_name">
+		</activity>
+        <activity android:name=".Noteneingabe" android:theme="@android:style/Theme.Black" android:label="Noteneingabe">
+        </activity>
+        <activity android:name=".Anzeigesus" android:theme="@android:style/Theme.Black" android:label="Notenliste">
+        </activity>
+        <activity android:name=".SusZuteilen" android:theme="@android:style/Theme.Holo" android:label="Schüler zuteilen">
+        </activity>
+        <activity android:name=".setzegesamtnote" android:theme="@android:style/Theme.Black" android:label="Noten setzen">
+        </activity>
+        <activity android:name=".aufgaben" android:theme="@android:style/Theme.Holo" android:label="Aufgaben">
+        </activity>
+        <activity android:name=".abhaken" android:theme="@android:style/Theme.Holo" android:label="Aufgabe erledigt">
+        </activity>
+        <activity android:name=".kursbucheintragen" android:theme="@android:style/Theme.Holo" android:label="Kursmappe">
+        </activity>
+        <activity android:name=".kursbuchansehen" android:theme="@android:style/Theme.Holo" android:label="Kursmappe">
+        </activity>
+        <activity android:name=".kursbuchbearbeiten" android:theme="@android:style/Theme.Holo" android:label="Kursmappe">
+        </activity>
+        <activity android:name=".FileChooser" android:label="Datei wählen">
+        </activity>
+        <activity android:name=".fehlstundeneintragen" android:theme="@android:style/Theme.Holo" android:label="Fehlstunden eintragen">
+        </activity>
+        <activity android:name=".Sitzplan" android:theme="@android:style/Theme.Holo" android:label="Sitzplan">
+        </activity>
+        <activity android:name=".Stundenplan" android:theme="@android:style/Theme.Holo" android:label="Stundenplan">
+        </activity>
+        <activity android:name=".alleeintraegeanzeigen" android:theme="@android:style/Theme.Holo" android:label="neueste Einträge">
+        </activity>
+	</application>
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.STORAGE" />
+</manifest>

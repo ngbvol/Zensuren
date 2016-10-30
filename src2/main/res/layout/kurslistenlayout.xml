@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+        <TableLayout
+            android:id="@+id/tableLayout1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" >
+
+            <TableRow
+                android:id="@+id/tableRow1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/nummer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_column="1"
+                    android:text="@+id/name"
+                    android:textSize="17dp" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_column="2"
+                    android:text="@+id/name"
+                    android:textSize="22dp" >
+                </TextView>
+
+
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/untenlinks"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_column="1"
+                    android:text=""
+                    android:textSize="25dp" >
+                </TextView>
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_column="2"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left">
+                    <TextView
+                         android:id="@+id/tsm1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="4dp"
+                        android:layout_weight=".2"
+                        android:text="@+id/description"
+                        android:textSize="17dp" />
+                    <TextView
+                        android:id="@+id/tk1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="4dp"
+                        android:layout_weight=".2"
+                        android:text="@+id/description"
+                        android:textSize="17dp" />
+                    <TextView
+                        android:id="@+id/tsm2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight=".2"
+                        android:layout_marginLeft="4dp"
+                        android:text="@+id/description"
+                        android:textSize="17dp" />
+                    <TextView
+                        android:id="@+id/tk2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight=".2"
+                        android:layout_marginLeft="4dp"
+                        android:text="@+id/description"
+                        android:textSize="17dp" />
+                    <TextView
+                        android:id="@+id/tz"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight=".2"
+                        android:layout_marginLeft="4dp"
+                        android:text="@+id/description"
+                        android:textSize="17dp" />
+                </LinearLayout>
+            </TableRow>
+        </TableLayout>
+</LinearLayout>
